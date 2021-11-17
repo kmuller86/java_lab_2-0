@@ -24,7 +24,7 @@ public class Main {
         double g = 36.458;
         boolean h = true;
         char i = 'z';
-        String q = "Polska";
+        String q = "Poland";
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
