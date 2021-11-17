@@ -25,6 +25,7 @@ public class Main {
         System.out.print("Podaj numer albumu: ");
         int album = scan.nextInt();
 
+
         System.out.println("Nazywasz się " + imie + " " + nazwisko + ", masz " + wiek + " lat i numer albumu: " + album+"");
         /*  zad.2 zadeklarować 2 zmienne typu int i wykonać na nich obliczenia arytmetyczn (+, -, *, /, %)
         *   wynik wyświetlić w konsoli programu
